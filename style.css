@@ -1,0 +1,52 @@
+table{
+  color:rgba(255, 255, 255, 0.91);
+  text-align:center; 
+  border-collapse: collapse;  
+  font:normal 3m arial,helvetica,sans-serif
+}
+
+tr{
+  height: 16.02vh;
+    background-color: #ee44b3;
+    
+}
+td{
+    width:25vw;
+    border:1px solid #ba0a8a;
+}
+
+#inputBox{
+    background-color: #ba0a8a;
+    text-align: right;
+    width: 99%;
+    font-size: 2em;
+    color: rgba(255, 240, 249, 0.58);
+    border: 0px;
+}
+.digitButton{
+    background-color: #ee44b3;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px #ba0a8a;
+    
+}
+
+.operatorButton{
+    background-color: rgba(240, 240, 255, 0.34);
+    border-radius: 6px;
+}
+
+.ACButton{
+    background-color: #ba0a97;
+    border-radius: 6px;
+}
+    
+    /*== LOG==*/
+    
+
+    
+    
+    
+    
+    
+
+
